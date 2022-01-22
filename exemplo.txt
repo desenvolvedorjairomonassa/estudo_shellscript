@@ -1,0 +1,1 @@
+Oracle Big Data Lite Virtual Machine provides an integrated environment to help you get started with the Oracle Big Data platform. Many Oracle Big Data platform components have been installed and configured - allowing you to begin using the system right away. The following components are included on Oracle Big Data Lite
